@@ -1,0 +1,9 @@
+## Interface: 60000
+## Title: MobileEnergy
+## Author: B-Buck (Bbuck - Eredar)
+## Version: 1.1
+## Notes: Displays a movable mana, energy, rage, or runic power bar on your screen.
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariablesPerCharacter: MobileEnergy
+MobileEnergy.xml
