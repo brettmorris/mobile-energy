@@ -2,11 +2,11 @@
  <Script file="MobileEnergy.lua" />
  <Frame name="MobileEnergy">
     <Scripts>
-		<OnLoad> 
+	<OnLoad> 
             self.TimeSinceLastUpdate = 0
             MobileEnergyStart(self)
         </OnLoad>
-		<OnUpdate> 
+	<OnUpdate> 
             MobileE_Main(self, elapsed) 
         </OnUpdate>
         <OnEvent>
